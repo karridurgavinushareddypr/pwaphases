@@ -1,0 +1,44 @@
+{
+  "basic":{
+    "image":"download.jpg",
+    "name":"vinusha",
+    "email":"karri.durgavinusha@gmail.com",
+    "number":"+91-9123456789",
+    "address":"pragati college,surampalem."
+  },
+  "career":{
+    "info":"to be a software engineer."
+  },
+"Educationaldetails":[
+  {
+    "institute":"pragati engineering college",
+    "degree":"b.tech",
+    "passout":"2021"
+  },
+{
+  "institute":"narayana junior college",
+  "degree":"intermediate",
+  "passout":"2017"
+},
+{
+  "institute":"satya bhama school",
+  "degree":"ssc",
+  "passout":"2015"
+}
+],
+
+    "skills":[
+    {
+      "info":"programming languages",
+      "data":["c","c++","java,javascript"]
+    },
+    {
+      "info":"operating systems",
+      "data":["linux","unix","windows"]
+    },
+    {
+      "info":"databases",
+      "data":["oracle","mysql"]
+    }
+  ]
+  }
